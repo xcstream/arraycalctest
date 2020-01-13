@@ -1,0 +1,11 @@
+{
+  "name": "gp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --max_old_space_size=15048 index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
